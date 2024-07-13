@@ -12,6 +12,7 @@ Python is used for backend api. Main reason is that there are already bits of co
 For frontend I'm using c# and AvaloniaUI, because python has bearly any libraries to build decent UI. For example qt5 could be sometimes quite confusing when creating complicated and modern UI. Although I wouldn't be able to build something modern and cool just yet, but Avalonia is a good starting point in my opinion.
 
 # TODO
+- [ ] 0. UnitTesting
 - [ ] 1. Random background colors and gradients
 - [ ] 2. Random characters colors and gradients
 - [ ] 3. Check for characters visibility
@@ -20,3 +21,4 @@ For frontend I'm using c# and AvaloniaUI, because python has bearly any librarie
 - [ ] 6. Add noise patterns
 - [ ] 7. Random lines in background and random overlapping with characters
 - [ ] 8. Add postprocessing 
+- [ ] 9. Add ability to view changes to different captcha's layers without regenerating whole captcha
